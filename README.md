@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/vianydev/Fylo-dark-theme-landing-page)
+- Live Site URL: [Live site URL](https://vianydev.github.io/Fylo-dark-theme-landing-page/)
 
 ## My process
 
